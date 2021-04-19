@@ -1,5 +1,5 @@
 # SMS Gratis / Prank SMS
-Versi terupdate dari [program](https://github.com/Xractz/fsms) milik Xractz
+Versi terupdate dari [program](https://github.com/Xractz/fsms) milik Xractz.
 
 ## Cara Install
 ```
